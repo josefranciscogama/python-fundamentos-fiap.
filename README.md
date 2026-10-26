@@ -40,4 +40,4 @@ Troque o caminho para executar os demais programas.
 
 ## Autor
 
-José Francisco Gama Magalhães de Freitas | 
+José Francisco Gama Magalhães de Freitas | www.linkedin.com/in/josé-francisco-gama-magalhães-de-freitas-681b54345   https://github.com/josefranciscogama
