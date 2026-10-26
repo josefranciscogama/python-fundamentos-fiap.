@@ -34,10 +34,9 @@ Troque o caminho para executar os demais programas.
 
 ## Possíveis evoluções
 
-- Testes automatizados com `pytest` para as funções de cálculo
-- No exercício de investimentos, aplicar a alíquota apenas sobre o rendimento (e não sobre o valor total resgatado), como ocorre na prática
-- Interface web simples com JavaScript para os simuladores financeiros
-
+- Testes automatizados com `pytest` para as funções de cálculo (programas 02, 03 e 04)
+- Versão web dos simuladores financeiros com HTML, CSS e JavaScript
+  
 ## Autor
 
 José Francisco Gama Magalhães de Freitas | www.linkedin.com/in/josé-francisco-gama-magalhães-de-freitas-681b54345   https://github.com/josefranciscogama
